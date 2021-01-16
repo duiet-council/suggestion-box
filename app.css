@@ -1,0 +1,29 @@
+.container-fluid{
+    text-align: center;
+    padding: 10% 20%;
+}
+
+#all{
+    text-align: center;
+    padding: 5% 20%;
+}
+.card-header{
+    background-color: rgb(101 53 193 / 35%);
+}
+
+body{
+    background: #654ea3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+  }
